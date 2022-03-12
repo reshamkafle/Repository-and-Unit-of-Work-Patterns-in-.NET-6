@@ -1,0 +1,12 @@
+C:\Users\resham\Desktop\UOW.Web\UOW.Core\bin\Debug\net6.0\UOW.Core.deps.json
+C:\Users\resham\Desktop\UOW.Web\UOW.Core\bin\Debug\net6.0\UOW.Core.dll
+C:\Users\resham\Desktop\UOW.Web\UOW.Core\bin\Debug\net6.0\UOW.Core.pdb
+C:\Users\resham\Desktop\UOW.Web\UOW.Core\obj\Debug\net6.0\UOW.Core.csproj.AssemblyReference.cache
+C:\Users\resham\Desktop\UOW.Web\UOW.Core\obj\Debug\net6.0\UOW.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resham\Desktop\UOW.Web\UOW.Core\obj\Debug\net6.0\UOW.Core.AssemblyInfoInputs.cache
+C:\Users\resham\Desktop\UOW.Web\UOW.Core\obj\Debug\net6.0\UOW.Core.AssemblyInfo.cs
+C:\Users\resham\Desktop\UOW.Web\UOW.Core\obj\Debug\net6.0\UOW.Core.csproj.CoreCompileInputs.cache
+C:\Users\resham\Desktop\UOW.Web\UOW.Core\obj\Debug\net6.0\UOW.Core.dll
+C:\Users\resham\Desktop\UOW.Web\UOW.Core\obj\Debug\net6.0\refint\UOW.Core.dll
+C:\Users\resham\Desktop\UOW.Web\UOW.Core\obj\Debug\net6.0\UOW.Core.pdb
+C:\Users\resham\Desktop\UOW.Web\UOW.Core\obj\Debug\net6.0\ref\UOW.Core.dll

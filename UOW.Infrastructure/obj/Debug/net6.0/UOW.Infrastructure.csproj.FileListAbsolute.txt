@@ -1,0 +1,15 @@
+C:\Users\resham\Desktop\UOW.Web\UOW.Infrastructure\bin\Debug\net6.0\UOW.Infrastructure.deps.json
+C:\Users\resham\Desktop\UOW.Web\UOW.Infrastructure\bin\Debug\net6.0\UOW.Infrastructure.dll
+C:\Users\resham\Desktop\UOW.Web\UOW.Infrastructure\bin\Debug\net6.0\UOW.Infrastructure.pdb
+C:\Users\resham\Desktop\UOW.Web\UOW.Infrastructure\bin\Debug\net6.0\UOW.Core.dll
+C:\Users\resham\Desktop\UOW.Web\UOW.Infrastructure\bin\Debug\net6.0\UOW.Core.pdb
+C:\Users\resham\Desktop\UOW.Web\UOW.Infrastructure\obj\Debug\net6.0\UOW.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\resham\Desktop\UOW.Web\UOW.Infrastructure\obj\Debug\net6.0\UOW.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resham\Desktop\UOW.Web\UOW.Infrastructure\obj\Debug\net6.0\UOW.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\resham\Desktop\UOW.Web\UOW.Infrastructure\obj\Debug\net6.0\UOW.Infrastructure.AssemblyInfo.cs
+C:\Users\resham\Desktop\UOW.Web\UOW.Infrastructure\obj\Debug\net6.0\UOW.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\resham\Desktop\UOW.Web\UOW.Infrastructure\obj\Debug\net6.0\UOW.Infrastructure.csproj.CopyComplete
+C:\Users\resham\Desktop\UOW.Web\UOW.Infrastructure\obj\Debug\net6.0\UOW.Infrastructure.dll
+C:\Users\resham\Desktop\UOW.Web\UOW.Infrastructure\obj\Debug\net6.0\refint\UOW.Infrastructure.dll
+C:\Users\resham\Desktop\UOW.Web\UOW.Infrastructure\obj\Debug\net6.0\UOW.Infrastructure.pdb
+C:\Users\resham\Desktop\UOW.Web\UOW.Infrastructure\obj\Debug\net6.0\ref\UOW.Infrastructure.dll

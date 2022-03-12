@@ -1,0 +1,266 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Web\\UOW.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Core\\UOW.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Core\\UOW.Core.csproj",
+        "projectName": "UOW.Core",
+        "projectPath": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Core\\UOW.Core.csproj",
+        "packagesPath": "C:\\Users\\resham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\resham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Infrastructure\\UOW.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Infrastructure\\UOW.Infrastructure.csproj",
+        "projectName": "UOW.Infrastructure",
+        "projectPath": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Infrastructure\\UOW.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\resham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\resham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Core\\UOW.Core.csproj": {
+                "projectPath": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Core\\UOW.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Service\\UOW.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Service\\UOW.Service.csproj",
+        "projectName": "UOW.Service",
+        "projectPath": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Service\\UOW.Service.csproj",
+        "packagesPath": "C:\\Users\\resham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\resham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Core\\UOW.Core.csproj": {
+                "projectPath": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Core\\UOW.Core.csproj"
+              },
+              "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Infrastructure\\UOW.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Infrastructure\\UOW.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Web\\UOW.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Web\\UOW.Web.csproj",
+        "projectName": "UOW.Web",
+        "projectPath": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Web\\UOW.Web.csproj",
+        "packagesPath": "C:\\Users\\resham\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\resham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Core\\UOW.Core.csproj": {
+                "projectPath": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Core\\UOW.Core.csproj"
+              },
+              "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Infrastructure\\UOW.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Infrastructure\\UOW.Infrastructure.csproj"
+              },
+              "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Service\\UOW.Service.csproj": {
+                "projectPath": "C:\\Users\\resham\\Desktop\\UOW.Web\\UOW.Service\\UOW.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
